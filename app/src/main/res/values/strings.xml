@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">carnet</string>
+    <string name="nombre">Noé Portillo</string>
+    <string name="carrera">Ing. Informatico</string>
+    <string name="github">portillo93</string>
+    <string name="correo">00078415@uca.edu.sv</string>
+    <string name="twitter">noe_portillo93</string>
+    <string name="telefono">+503 79994968</string>
+    <string name="power_by_noe">Power By Noé Portillo</string>
+
+</resources>
